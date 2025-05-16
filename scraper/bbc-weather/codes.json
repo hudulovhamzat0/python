@@ -1,0 +1,50 @@
+{
+"azerbaijan": {
+    "baku": "587084",
+    "ganja": "586523"
+},
+"russia": {
+    "moscow": "524901",
+    "petersburg": "498817",
+    "novosibirsk": "1496747",
+    "yekaterinburg": "1486209",
+    "nizhnymovgorod": "520555",
+    "samara": "499099",
+    "omsk": "1496153",
+    "kazan": "551487",
+    "rostov-na-donu": "501175",
+    "chelyabinsk": "1508291",
+    "ufa": "479561",
+    "volgograd": "472757",
+    "perm": "511196",
+    "krasnoyarsk": "1502026",
+    "saratov": "498677",
+    "voronezh": "472045",
+    "krasnodar": "542420",
+    "ulyanovsk": "479123",
+    "barnaul": "1510853",
+    "khabarovsk": "2022890"
+},
+"united_states": {
+    "washington": "4140963",
+    "losangeles": "5368361",
+    "chicago": "4887398",
+    "houston": "4699066",
+    "philadelphia": "4560349",
+    "phoenix": "5308655",
+    "sanantonio": "4726206",
+    "sandiego": "5391811",
+    "dallas": "4684888",
+    "sanjose": "5392171",
+    "indianapolis": "4259418",
+    "jacksonville": "4160021",
+    "sanfrancisco": "5391959",
+    "austin": "4671654",
+    "columbus": "4509177",
+    "fortworth": "4691930",
+    "detroit": "4990729",
+    "elpaso": "5520993",
+    "portland": "5746545",
+    "memphis": "4641239"
+    }
+}
